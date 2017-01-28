@@ -1,3 +1,3 @@
 # searchEngine
-1. Compiile the code
+1. Compile the code
 2. Enter search query
